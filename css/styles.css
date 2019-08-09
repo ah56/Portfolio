@@ -72,6 +72,10 @@ img {
 .background-color{
   background-color: orange;
 }
+button a {
+  color: black;
+  
+}
 a{
   color: white;
   margin: 0px;
