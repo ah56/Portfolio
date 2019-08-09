@@ -16,7 +16,7 @@ h1 {
   margin-left: 12px;
 }
 .hire ul {
-  padding-left: 15px;
+  padding-left: 16px;
 }
 .mainlist {
   float: left;
@@ -27,4 +27,16 @@ h1 {
 }
 p {
   padding-left: 8px;
+}
+
+.contact {
+  border: 2px;
+  border-color: blue;
+  padding-left: 2px;
+  background-color: red;
+  max-width: 50%;
+}
+.fancy {
+  text-emphasis-style: triangle;
+  font-style: italic;
 }
