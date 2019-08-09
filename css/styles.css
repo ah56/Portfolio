@@ -1,0 +1,30 @@
+h1 {
+  font-family: sans-serif;
+  font-style: italic;
+  font-style: bold;
+  background-size: 100%;
+  background-color: red;
+  margin-bottom: 2px;
+}
+.hire{
+  float: right;
+  max-width: 106px;
+  color: #e6e5cc;
+  background-color: green;
+  border: 2px solid pink;
+  padding: 8px;
+  margin-left: 12px;
+}
+.hire ul {
+  padding-left: 15px;
+}
+.mainlist {
+  float: left;
+  background-color: #74b4d6;
+  border: 2px solid green;
+  padding: 4px;
+  margin-right: 14px;
+}
+p {
+  padding-left: 8px;
+}
