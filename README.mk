@@ -12,6 +12,7 @@ _{This is a webpage accessible via github which includes information about "me."
 
 * _Internet access_
 * _A web browser_
+* _this link: http://ah56.github.io/Portfolio/_
 
 ## Support and contact details
 
